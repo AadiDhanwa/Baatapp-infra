@@ -1,0 +1,12 @@
+# Terraform
+.terraform/
+terraform.tfstate
+terraform.tfstate.*
+*.tfvars
+
+# SSH keys
+chatkey
+chatkey.pub
+
+# Mac files
+.DS_Store
